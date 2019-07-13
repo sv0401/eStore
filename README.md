@@ -17,10 +17,10 @@ Spring Framework - Web Server Project
 ![ex_1](./demo/LoginOrRegister.PNG)
 
 - Products Page<br>
-![ex_1](./demo/products.png)
+![ex_1](./demo/products.PNG)
 
 - Product View Page<br>
-![ex_1](./demo/viewProduct.png)
+![ex_1](./demo/viewProduct.PNG)
 
 - Cart Page<br>
-![ex_1](./demo/cart.png)
+![ex_1](./demo/cart.PNG)

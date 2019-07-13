@@ -4,7 +4,6 @@ Spring Framework - Web Server Project
 - 작품 개요<br>
 
  Spring Framework 및 통합 가능한 Framework 를 이용한 웹 쇼핑몰.
- #Hibernate, Rest API, Angular 등
   
 
 - 개발 환경 및 타겟 플랫폼<br>

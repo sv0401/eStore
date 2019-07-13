@@ -14,7 +14,7 @@ Spring Framework - Web Server Project
 
 
 - Login Page<br>
-![ex_1](./demo/LoginOrRegister.png)
+![ex_1](./demo/LoginOrRegister.PNG)
 
 - Products Page<br>
 ![ex_1](./demo/products.png)

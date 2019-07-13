@@ -9,7 +9,7 @@ Spring Framework - Web Server Project
 - 개발 환경 및 타겟 플랫폼<br>
 
   - 타겟 플랫폼: Web 환경
-  - 개발 도구: Eclipse Oxygen
+  - 개발 도구: Eclipse Oxygen / MySQL Workbench
 
 ![ex_1](./demo/DevelopTech.PNG)
 

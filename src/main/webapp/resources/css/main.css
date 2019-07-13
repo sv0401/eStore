@@ -1,0 +1,21 @@
+@charset "UTF-8";
+
+.container-wrapper {
+	margin-top: 80px;
+}
+
+.table {
+	table-layout: fixed;
+}
+
+.table th {
+	text-align: center;
+	overflow: hidden;
+}
+
+.table td {
+	text-align: center;
+	overflow: hidden;
+	text-overflow: ellipsis;
+	white-space: nowrap;
+}

@@ -11,7 +11,7 @@ Spring Framework - Web Server Project
   - 타겟 플랫폼: Web 환경
   - 개발 도구: Eclipse Oxygen
 
-![ex_1](./demo/DevlopTech.PNG)
+![ex_1](./demo/DevelopTech.PNG)
 
 - Login Page<br>
 ![ex_1](./demo/LoginOrRegister.PNG)
